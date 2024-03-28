@@ -1,0 +1,10 @@
+@article{jia2016psumo,
+  title={pSumo-CD: predicting sumoylation sites in proteins with covariance discriminant algorithm by incorporating sequence-coupled effects into general PseAAC},
+  author={Jia, Jianhua and Zhang, Liuxia and Liu, Zi and Xiao, Xuan and Chou, Kuo-Chen},
+  journal={Bioinformatics},
+  volume={32},
+  number={20},
+  pages={3133--3141},
+  year={2016},
+  publisher={Oxford University Press}
+}

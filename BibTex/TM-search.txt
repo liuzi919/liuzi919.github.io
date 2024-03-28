@@ -1,0 +1,7 @@
+@article{liu2024tm,
+  title={TM-search: An Efficient and Effective Tool for Protein Structure Database Search},
+  author={Liu, Zi and Zhang, Chengxin and Zhang, Qidi and Zhang, Yang and Yu, Dong-Jun},
+  journal={Journal of Chemical Information and Modeling},
+  year={2024},
+  publisher={ACS Publications}
+}

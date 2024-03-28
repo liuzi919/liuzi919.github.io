@@ -1,0 +1,10 @@
+@article{jia2016ippbs,
+  title={iPPBS-Opt: a sequence-based ensemble classifier for identifying protein-protein binding sites by optimizing imbalanced training datasets},
+  author={Jia, Jianhua and Liu, Zi and Xiao, Xuan and Liu, Bingxiang and Chou, Kuo-Chen},
+  journal={Molecules},
+  volume={21},
+  number={1},
+  pages={95},
+  year={2016},
+  publisher={MDPI}
+}

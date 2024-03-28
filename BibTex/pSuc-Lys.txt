@@ -1,0 +1,9 @@
+@article{jia2016psuc,
+  title={pSuc-Lys: predict lysine succinylation sites in proteins with PseAAC and ensemble random forest approach},
+  author={Jia, Jianhua and Liu, Zi and Xiao, Xuan and Liu, Bingxiang and Chou, Kuo-Chen},
+  journal={Journal of theoretical biology},
+  volume={394},
+  pages={223--230},
+  year={2016},
+  publisher={Elsevier}
+}

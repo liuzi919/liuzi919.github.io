@@ -1,0 +1,9 @@
+@article{liu2016prnam,
+  title={pRNAm-PC: Predicting N6-methyladenosine sites in RNA sequences via physical--chemical properties},
+  author={Liu, Zi and Xiao, Xuan and Yu, Dong-Jun and Jia, Jianhua and Qiu, Wang-Ren and Chou, Kuo-Chen},
+  journal={Analytical biochemistry},
+  volume={497},
+  pages={60--67},
+  year={2016},
+  publisher={Elsevier}
+}

@@ -1,0 +1,9 @@
+@article{zhang2018accurate,
+  title={Accurate RNA 5-methylcytosine site prediction based on heuristic physical-chemical properties reduction and classifier ensemble},
+  author={Zhang, Ming and Xu, Yan and Li, Lei and Liu, Zi and Yang, Xibei and Yu, Dong-Jun},
+  journal={Analytical biochemistry},
+  volume={550},
+  pages={41--48},
+  year={2018},
+  publisher={Elsevier}
+}

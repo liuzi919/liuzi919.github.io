@@ -1,0 +1,10 @@
+@article{jia2016identification,
+  title={Identification of protein-protein binding sites by incorporating the physicochemical properties and stationary wavelet transforms into pseudo amino acid composition},
+  author={Jia, Jianhua and Liu, Zi and Xiao, Xuan and Liu, Bingxiang and Chou, Kuo-Chen},
+  journal={Journal of Biomolecular Structure and Dynamics},
+  volume={34},
+  number={9},
+  pages={1946--1961},
+  year={2016},
+  publisher={Taylor \& Francis}
+}

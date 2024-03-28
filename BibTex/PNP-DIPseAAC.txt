@@ -1,0 +1,6 @@
+@article{2015PNP,
+  title={PNP-DIPseAAC: Prediction of nucleosome position based on the DNA sequence information},
+  author={ Xiao, Xuan  and  Liu, Zi  and  Qiu, Wang Ren },
+  journal={IEEE},
+  year={2015},
+}

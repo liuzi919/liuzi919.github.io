@@ -1,0 +1,9 @@
+@article{jia2016isuc,
+  title={iSuc-PseOpt: identifying lysine succinylation sites in proteins by incorporating sequence-coupling effects into pseudo components and optimizing imbalanced training dataset},
+  author={Jia, Jianhua and Liu, Zi and Xiao, Xuan and Liu, Bingxiang and Chou, Kuo-Chen},
+  journal={Analytical biochemistry},
+  volume={497},
+  pages={48--56},
+  year={2016},
+  publisher={Elsevier}
+}

@@ -1,0 +1,9 @@
+@article{jia2015ippi,
+  title={iPPI-Esml: an ensemble classifier for identifying the interactions of proteins by incorporating their physicochemical properties and wavelet transforms into PseAAC},
+  author={Jia, Jianhua and Liu, Zi and Xiao, Xuan and Liu, Bingxiang and Chou, Kuo-Chen},
+  journal={Journal of theoretical biology},
+  volume={377},
+  pages={47--56},
+  year={2015},
+  publisher={Elsevier}
+}

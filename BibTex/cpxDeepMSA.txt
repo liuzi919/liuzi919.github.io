@@ -1,0 +1,10 @@
+@article{liu2022cpxdeepmsa,
+  title={cpxDeepMSA: a deep cascade algorithm for constructing multiple sequence alignments of protein--protein interactions},
+  author={Liu, Zi and Yu, Dong-Jun},
+  journal={International Journal of Molecular Sciences},
+  volume={23},
+  number={15},
+  pages={8459},
+  year={2022},
+  publisher={MDPI}
+}

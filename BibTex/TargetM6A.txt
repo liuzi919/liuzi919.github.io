@@ -1,0 +1,10 @@
+@article{li2016targetm6a,
+  title={TargetM6A: identifying N 6-methyladenosine sites from RNA sequences via position-specific nucleotide propensities and a support vector machine},
+  author={Li, Guang-Qing and Liu, Zi and Shen, Hong-Bin and Yu, Dong-Jun},
+  journal={IEEE transactions on nanobioscience},
+  volume={15},
+  number={7},
+  pages={674--682},
+  year={2016},
+  publisher={IEEE}
+}

@@ -1,0 +1,9 @@
+@article{liu2015benchmark,
+  title={Benchmark data for identifying DNA methylation sites via pseudo trinucleotide composition},
+  author={Liu, Zi and Xiao, Xuan and Qiu, Wang-Ren and Chou, Kuo-Chen},
+  journal={Data in brief},
+  volume={4},
+  pages={87--89},
+  year={2015},
+  publisher={Elsevier}
+}

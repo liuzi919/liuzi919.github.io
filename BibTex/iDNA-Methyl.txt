@@ -1,0 +1,9 @@
+@article{liu2015idna,
+  title={iDNA-Methyl: Identifying DNA methylation sites via pseudo trinucleotide composition},
+  author={Liu, Zi and Xiao, Xuan and Qiu, Wang-Ren and Chou, Kuo-Chen},
+  journal={Analytical biochemistry},
+  volume={474},
+  pages={69--77},
+  year={2015},
+  publisher={Elsevier}
+}

@@ -1,0 +1,9 @@
+@article{kabir2018improving,
+  title={Improving prediction of extracellular matrix proteins using evolutionary information via a grey system model and asymmetric under-sampling technique},
+  author={Kabir, Muhammad and Ahmad, Saeed and Iqbal, Muhammad and Swati, Zar Nawab Khan and Liu, Zi and Yu, Dong-Jun},
+  journal={Chemometrics and Intelligent Laboratory Systems},
+  volume={174},
+  pages={22--32},
+  year={2018},
+  publisher={Elsevier}
+}
