@@ -1,0 +1,4 @@
+PLMGraph-Inter:   Yunda SiChengfei Yan (2024) Protein language model-embedded geometric graphs power inter-protein contact prediction eLife 12:RP92184.
+DeepTMP:   Lin P, Yan Y, Tao H, Huang SY. Deep transfer learning for inter-chain contact predictions of transmembrane protein complexes. Nat Commun. 2023 Aug 15;14(1):4935. doi: 10.1038/s41467-023-40426-3. PMID: 37582780; PMCID: PMC10427616.
+DeepInter: 
+Lin, P., Tao, H., Li, H. et al. Protein–protein contact prediction by geometric triangle-aware protein language models. Nat Mach Intell 5, 1275–1284 (2023). https://doi.org/10.1038/s42256-023-00741-2
